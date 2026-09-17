@@ -160,3 +160,22 @@ unix-commands-notes/
     ├── conditional-scripts/
     ├── loop-scripts/
     └── argument-scripts/
+```
+
+---
+
+## How to Use These Notes
+
+Open each chapter in order and practice the examples in a Unix/Linux terminal.
+For shell scripts, save the code in a `.sh` file and run it with:
+
+```sh
+sh filename.sh
+```
+
+or make it executable:
+
+```sh
+chmod +x filename.sh
+./filename.sh
+```
